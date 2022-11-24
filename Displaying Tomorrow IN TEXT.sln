@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Displaying Tomorrow IN TEXT", "Displaying Tomorrow IN TEXT\Displaying Tomorrow IN TEXT.csproj", "{DB01DDF7-D51D-427A-B173-9BEB2F6882D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB01DDF7-D51D-427A-B173-9BEB2F6882D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB01DDF7-D51D-427A-B173-9BEB2F6882D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB01DDF7-D51D-427A-B173-9BEB2F6882D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB01DDF7-D51D-427A-B173-9BEB2F6882D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE46F98-1617-45CB-9458-9C861BF7B7FF}
+	EndGlobalSection
+EndGlobal
